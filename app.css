@@ -1,0 +1,601 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    color:  rgb(3, 43, 3);
+}
+
+#spread{ 
+   
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+   
+
+#prime{
+    background-color: rgb(220, 248, 237);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 800px;
+
+
+}
+
+#main{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 55px;
+    margin-top: 2px;
+    border: 2px solid white;
+    border-radius: 7px;
+    
+
+    
+}
+
+#seth{
+    font-weight: 50px;
+    font-family: 60px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 6px;
+    gap: 1px;
+    
+}
+
+#fresh{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+#fresh a{
+    text-decoration: none;
+    color: rgb(3, 43, 3);
+}
+
+#even{
+    font-weight: 50px;
+    font-size: large;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(158, 244, 215);
+    border-radius: 5px;
+    border-color: white;
+}
+
+#leak{
+  width: 100px;
+  height: 35px;
+  color: white;
+  background-color: rgb(3, 43, 3);
+}
+
+#cross{
+    font-weight: 15px;
+    font-size: 25px;
+}
+
+#leak{
+    padding-right: 6px;
+}
+
+#press{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+#close{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-left: 70px;
+    column-gap: 50px;
+
+}
+
+#water{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+#guard{
+    margin-bottom: 25px;
+
+}
+
+#wale{
+    margin-bottom: 25px;
+    color: rgb(3, 43, 3);
+
+}
+
+#pikin{
+    margin-bottom: 25px;
+    color: black;
+    background-color: rgb(188, 255, 228);
+    border: 2px solid black;
+    width: 100px;
+    height: 35px;
+    
+
+
+
+}
+
+#shine{
+    margin-top: 25px;
+
+}
+
+
+
+#prompt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+#magic{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(247, 246, 246);
+    border-color: white;
+}
+
+#be{
+    margin-bottom: 25px;
+}
+
+#money{
+    margin-bottom: 25px;
+}
+
+#drake{
+    margin-bottom: 15px;
+
+}
+
+#kendrick{
+     margin-bottom: 15px;
+
+}
+
+#central{
+     margin-bottom: 15px;
+
+}
+
+#backi{
+    margin-top: 15px;
+
+}
+
+#prompt{
+    padding: 40px;
+    margin: 20px;
+    border-radius: 8px;
+    width: 97%;
+    
+}
+
+#front button{
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+
+#legover{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+
+}
+
+#yes{
+    margin-bottom: 25px;
+
+}
+
+#banker{
+    margin-bottom: 25px;
+
+} 
+
+#blink{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    margin-bottom: 25px;
+    border: 0.5px solid rgb(248, 243, 243);
+    background-color:   rgb(248, 243, 243);
+    
+    
+    
+
+}
+
+#football{
+    
+    color :black;
+    background-color: rgb(248, 243, 243);;
+    width: 100px;
+    height: 20px;
+
+}
+
+#baby{
+    display: flex;
+    align-items: center;
+    
+    color: white;
+    
+    background-color: rgb(3, 43, 3);
+    width: 100px;
+    height: 20px;
+}
+
+#scope{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    row-gap: 10px;
+    margin-top: 20px;
+    
+
+}
+
+#scope p{
+    font-size: smaller;
+
+}
+
+#scope h3{
+    font-size: 40px;
+} 
+
+#scope nav{
+    text-decoration: underline;
+    color: rgb(3, 43, 3);
+    
+}
+
+
+
+#rowt{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+#minus{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+#shally{
+    width: 300px;
+    height: 300px;
+}
+
+#annoying{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 300px;
+
+
+}
+#forex{
+    display: grid;
+    grid-template-rows: 50px 50px 50px;
+    grid-template-columns: 300px 300px ;
+    gap: 1em;
+
+}
+
+#www{
+    background-color: rgb(250, 249, 249);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    
+}
+
+
+
+#package{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+   
+    width: 100px;
+    height: 35px;
+
+
+}
+
+
+
+#burnaboy{
+    
+    padding: 30px;
+    align-items: center;
+   
+}
+
+
+
+
+#hask{
+    width: 900px;
+    height: 400px;
+}
+
+#whip{
+    display: flex;
+    flex-direction: row;    flex-direction: row;
+
+    justify-content: space-evenly;
+}
+
+#one{
+    width: 500px;
+    height: 430px;
+
+}
+
+#whip button{
+    background-color: rgb(254, 252, 252);
+    border: 0.1px solid black;
+}
+
+#tiktok{
+    padding-top: 150px;
+}
+
+
+#joeboy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bloods{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    line-height: 1.4;
+
+}
+
+#wizkid{
+    display: flex;
+    align-items: center;
+    font-weight: 200px;
+    font-size: 40px;
+
+
+}
+#buns{
+    font-weight: 200px;
+    font-size: 20px;
+    
+    
+}
+
+#omah{
+    font-weight: 300px;
+    font-size: 45px;
+}
+
+#ios{
+    font-weight: 100px;
+}
+
+#mind{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: small;
+    color: rgb(224, 220, 220);
+    margin-top: 20px;
+}
+
+#mavo{
+    background-color: rgb(153, 254, 220);
+    width:350px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+#vibez{
+    background-color: rgb(198, 248, 123);
+    width:350px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+#chelseab{
+    background-color: rgb(255, 187, 255);
+    width:350px;
+    height: 512px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#longs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+#longs h2{
+     font-weight: 200px;
+     font-size: 40px;
+}
+
+#maje{
+   background-color: rgb(107, 247, 200);
+   width: 350px;
+   height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#time{
+    background-color:  rgb(182, 249, 80);
+    width: 350px;
+    height:300px;
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+#omo{
+    background-color: rgb(248, 145, 248);
+    width: 350px;
+    height: 390px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#weet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+
+
+#cava{
+    display: flex;
+    flex-direction: row;
+    gap: 20px
+    
+}
+
+#mkdir{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 40px;
+    margin: 20px;
+    margin-top: 70px;
+    border-radius: 8px;
+    width: 97%;
+    
+}
+
+#frying{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+    
+
+}
+
+#casket{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 150px;
+    border: 1px solid black;
+    padding: 40px;
+    margin: 20px;
+    margin-top: 70px;
+    border-radius: 8px;
+}
+
+#illegal{
+    
+    font-weight: 50px;
+    font-family: 60px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 9px;
+    gap: 1px;
+    padding-top: 20px;
+}
+
+#overtest{
+    border: 1px solid black;
+    padding: 40px;
+    margin: 20px;
+    margin-top: 70px;
+    border-radius: 8px;
+    
+}
+
+
+
+
+
+#gggt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 100px;
+    margin-top: 130px;
+    border: 1px solid black
+   
+}
+
+
+
+
+
+    
+
+
+
+
